@@ -6,7 +6,7 @@ By closely collaborating with other developers and engineers, your ideas will be
 
 ### As a member of the Carina containers team, you will:
 - Develop scalable container services using Docker and OpenStack technologies
-- Work with our remote team members located in the US
+- Work remotely with our team members located in the US
 - Be a valued member of a winning team on an inspiring mission
 
 ### We're looking for candidates with:
