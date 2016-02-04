@@ -11,7 +11,7 @@ By closely collaborating with other developers and engineers, your ideas will be
 
 ### We're looking for candidates with:
 - Docker and LXC containers knowledge
-- OpenStack development experience
+- Upstream OpenStack development experience
 - Python development experience
 - CI/CD experience and functional testing
 
@@ -24,7 +24,7 @@ By closely collaborating with other developers and engineers, your ideas will be
 - TLS certificate knowledge
 
 ### If you are:
-- Excited about the prospect of working with container technologies
+- Excited about container technologies and microservices architecture
 - Are a strong software developer with solid Linux engineering skills
 - Interested in working remotely while contributing to team goals
 

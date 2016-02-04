@@ -23,7 +23,7 @@ By closely collaborating with other developers and engineers, your ideas will be
 - Virtualized network experience
 
 ### If you are:
-- Excited about the prospect of working with container technologies
+- Excited about container technologies and microservices architecture
 - Are a strong Linux engineer with solid scripting and automation skills
 - Interested in working remotely while contributing to team goals
 

@@ -3,7 +3,7 @@
 **Be part of the container revolution by joining our cause.**
 
 We're seeking talented people who understand the relevence and importance of containers.  
-[Carina](https://getcarina.com) is a Rackspace product recently released to public beta at the OpenStack summit in Tokyo.
+[Carina](https://getcarina.com) is a Rackspace beta product announced at the OpenStack summit in Tokyo last fall.
 
 ### Current Carina Jobs:
 
