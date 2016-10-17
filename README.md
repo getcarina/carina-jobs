@@ -1,9 +1,7 @@
 ## Join the Carina team!
 
-**Be part of the container revolution by joining our cause.**
-
+[Carina](https://getcarina.com) is a Rackspace beta service with support for Docker Swarm and Kubernetes.
 We're seeking talented people who understand the relevence and importance of containers.  
-[Carina](https://getcarina.com) is a Rackspace beta product announced at the OpenStack summit in Tokyo last fall.
 
 ### Current Carina Jobs:
 

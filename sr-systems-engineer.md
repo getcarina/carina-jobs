@@ -1,11 +1,11 @@
 # Senior Systems Engineer
 
-Our ideal candidate will have opportunities to work on our [Carina](https://getcarina.com) containers service.
+Our ideal candidate will have opportunities to work on the [Carina](https://getcarina.com) containers service.
 
 By closely collaborating with other developers and engineers, your ideas will become production solutions in an agile development model.
 
 ### As a member of the Carina containers team, you will:
-- Engineer scalable container services using Docker and OpenStack technologies
+- Engineer scalable container services using Docker, Kubernetes and OpenStack technologies
 - Work remotely with our team members located in the US
 - Be a valued member of a winning team on an inspiring mission
 
