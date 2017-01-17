@@ -29,3 +29,4 @@ By closely collaborating with other developers and engineers, your ideas will be
 
 # We want to talk to you!
 Contact us at carina@lists.rackspace.com
+[Apply now](http://rackspace.jobs/remote-tx/senior-systems-engineer/D69924FE07434B728E7141D54ADE4978/job/)
